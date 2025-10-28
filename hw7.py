@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Felipe Garcia
 #Computer Science 1
 #Homework 7
@@ -100,5 +99,4 @@ def syracuse(n):
         sequence.append(n)
     return sequence
 #num = int(input("Enter a positive integer to generate its Syracuse sequence: ")) #Uncomment to run the function
->>>>>>> 7bb89e6 (Quick Test Of Commiting via VS Code)
 #print("The Syracuse sequence is:", syracuse(num)) #Uncomment to run the function
